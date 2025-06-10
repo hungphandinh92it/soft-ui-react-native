@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Cấu trúc thư mục `src`
+
+Thư mục `src` chứa mã nguồn chính của dự án, được tổ chức thành các thư mục con như sau:
+
+-   **assets/**: Chứa các tài nguyên tĩnh như hình ảnh, biểu tượng, v.v.
+-   **components/**: Chứa các thành phần giao diện dùng lại trong toàn dự án.
+-   **constants/**: Chứa các hằng số, cấu hình hoặc giá trị dùng chung.
+-   **hooks/**: Chứa các custom hooks cho React/React Native.
+-   **navigation/**: Chứa các tệp liên quan đến điều hướng (navigation) giữa các màn hình.
+-   **screens/**: Chứa các màn hình (screen) chính của ứng dụng.
+
+Thư mục này là nơi phát triển và mở rộng các tính năng chính của ứng dụng.
+

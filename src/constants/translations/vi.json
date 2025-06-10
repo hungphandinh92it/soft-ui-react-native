@@ -1,0 +1,118 @@
+{
+  "common": {
+    "appDetails": "Chi tiết ứng dụng",
+    "appName": "Tên ứng dụng",
+    "appVersion": "Phiên bản ứng dụng",
+    "buildVersion": "Phiên bản build",
+    "expoVersion": "Phiên bản Expo",
+    "about": "Giới thiệu",
+    "visit": "Truy cập",
+    "posted": "Đăng vào {{date}}",
+    "recommended": "Đề xuất cho bạn",
+    "viewall": "Xem tất cả",
+    "more": "Thêm",
+    "follow": "Theo dõi",
+    "followed": "Đã theo dõi",
+    "search": "Tìm kiếm",
+    "night": "đêm",
+    "day": "ngày",
+    "booknow": "Đặt ngay",
+    "selectDate": "Chọn ngày",
+    "checkInOut": "Nhận & Trả phòng",
+    "adults": "Người lớn",
+    "roomType": "Loại phòng",
+    "luxury": "Sang trọng",
+    "message": "Nhập tin nhắn của bạn",
+    "album": "Album",
+    "or": "hoặc",
+    "name": "Họ tên",
+    "namePlaceholder": "Nhập họ tên đầy đủ",
+    "email": "Email",
+    "emailPlaceholder": "Nhập địa chỉ email",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "agree": "Tôi đồng ý với ",
+    "terms": "Điều khoản và Điều kiện",
+    "signup": "Đăng ký",
+    "signin": "Đăng nhập",
+    "goBack": "Quay lại",
+    "inStock": "Còn hàng",
+    "outStock": "Hết hàng",
+    "addToCart": "Thêm vào giỏ",
+    "checkout": "Thanh toán",
+    "readArticle": "Đọc bài viết",
+    "send": "Gửi",
+    "guests": {
+      "one": "1 khách",
+      "other": "{{count}} khách",
+      "zero": "0 khách"
+    }
+  },
+  "app": {
+    "name": "Soft UI",
+    "fullname": "Soft UI Kit",
+    "native": "React Native",
+    "link": "creative-tim.com"
+  },
+  "darkMode": "Chế độ tối",
+  "screens": {
+    "home": "Trang chủ",
+    "components": "Thành phần",
+    "articles": "Bài viết",
+    "rental": "Thuê xe",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "register": "Tạo tài khoản",
+    "extra": "Thêm - Ô tô"
+  },
+  "navigation": {
+    "home": "Soft UI",
+    "components": "Thành phần",
+    "articles": "Soft UI",
+    "rentals": "Soft UI",
+    "rental": "Ưu đãi tốt nhất",
+    "booking": "Đặt chỗ",
+    "chat": "Trò chuyện",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "notifications": "Thông báo",
+    "agreement": "Thỏa thuận người dùng",
+    "about": "Giới thiệu",
+    "privacy": "Bảo mật",
+    "register": "Đăng ký",
+    "login": "Đăng nhập",
+    "extra": "Ô tô",
+    "shopping": "Giỏ hàng"
+  },
+  "menu": {
+    "started": "Bắt đầu",
+    "documentation": "Tài liệu"
+  },
+  "home": {
+    "title": "Soft UI",
+    "following": "Đang theo dõi",
+    "trending": "Xu hướng"
+  },
+  "register": {
+    "title": "Chào mừng",
+    "subtitle": "Đăng ký với"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "posts": "Bài viết",
+    "followers": "Người theo dõi",
+    "following": "Đang theo dõi",
+    "aboutMe": "Giới thiệu bản thân"
+  },
+  "pro": {
+    "title": "Soft UI PRO",
+    "alert": "Tính năng này chỉ có ở phiên bản PRO",
+    "components": "• {{count}} Thành phần (Nút, Ô nhập, Thẻ, v.v.)",
+    "screens": "• {{count}} Màn hình (Mua sắm, Thông báo, Trò chuyện, v.v.)",
+    "support": "• Bao gồm hỗ trợ cao cấp",
+    "takeAdvantage": "Tận dụng tất cả các tính năng và màn hình được code trên React Native cho cả hai",
+    "appTemplate": "Soft UI PRO React Native là mẫu ứng dụng sáng tạo giúp bạn xây dựng ứng dụng di động tuyệt đẹp trong thời gian ngắn. Bao gồm rất nhiều thành phần và màn hình được thiết kế để kết hợp với nhau và trông tuyệt vời:",
+    "saveTime": "Mẫu ứng dụng hiện đại này sẽ giúp bạn tiết kiệm rất nhiều thời gian từ tạo mẫu đến mã nguồn hoàn chỉnh, vì mọi thành phần đều đã được triển khai. Chúng tôi muốn quá trình thiết kế trở nên liền mạch, nên việc chuyển từ hình ảnh sang trang thực tế rất dễ dàng!",
+    "buyNow": "Mua ngay"
+  }
+} 

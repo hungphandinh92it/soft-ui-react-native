@@ -67,3 +67,12 @@ export const TranslationProvider = ({
  */
 export const useTranslation = () =>
   useContext(TranslationContext) as ITranslate;
+
+// Hướng dẫn sử dụng i18n:
+// 1. Bọc toàn bộ ứng dụng bằng <TranslationProvider> trong App.tsx hoặc entry point.
+// 2. Sử dụng hook useTranslation() trong component để lấy hàm t dịch ngôn ngữ.
+// 3. Để đổi ngôn ngữ: gọi setLocale('en') hoặc setLocale('vi').
+// 4. Thêm key/value vào en.json và vi.json trong src/constants/translations/ để mở rộng từ vựng.
+// 5. Ví dụ:
+//    const { t, locale, setLocale } = useTranslation();
+//    <Text>{t('common.appName')}</Text>

@@ -1,0 +1,36 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Tổng quan dự án
+
+Tệp này cung cấp tổng quan về cấu trúc và các tập lệnh của dự án.
+
+## Điểm vào chính
+
+Điểm vào chính của ứng dụng là `node_modules/expo/AppEntry.js`.
+
+## Các tập lệnh
+
+Dưới đây là các tập lệnh có sẵn trong `package.json`:
+
+-   `npm start`: Khởi động Metro Bundler.
+-   `npm run android`: Chạy ứng dụng trên thiết bị hoặc trình giả lập Android.
+-   `npm run ios`: Chạy ứng dụng trên thiết bị hoặc trình giả lập iOS.
+-   `npm run web`: Chạy ứng dụng trên trình duyệt web.
+-   `npm run eject`: Tách dự án khỏi Expo để sử dụng quy trình làm việc gốc.
+-   `npm test`: Chạy các bài kiểm thử bằng Jest.
+-   `npm run lint`: Phân tích mã nguồn bằng ESLint.
+
+## Phụ thuộc chính
+
+Dự án này sử dụng các thư viện chính sau:
+
+-   **Expo**: Nền tảng để xây dựng ứng dụng React Native.
+-   **React Navigation**: Để điều hướng giữa các màn hình (`@react-navigation/drawer`, `@react-navigation/native`, `@react-navigation/stack`).
+-   **React**: Thư viện giao diện người dùng.
+-   **TypeScript**: Ngôn ngữ lập trình.
+
+Để biết thêm chi tiết, vui lòng tham khảo tệp [package.json](mdc:package.json).
+
